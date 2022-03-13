@@ -3,10 +3,6 @@
   "version": "0.0.1",
   "description": "",
   "author": "",
-  "engines": {
-    "node": "16.x",
-    "nest": "8.x"
-  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
