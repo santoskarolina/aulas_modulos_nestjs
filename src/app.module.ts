@@ -18,7 +18,6 @@ import { AuthModule } from './auth/auth.module';
     database: 'aulas_modulo',
     entities: ["dist/**/*.entity{.ts,.js}"],
     migrationsRun: true,
-    ssl: true,
     synchronize: true,
   }),
   AuthModule],
