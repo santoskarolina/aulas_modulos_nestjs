@@ -1,0 +1,14 @@
+[33m448e187[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m env
+[33mace715b[m process.env.PORT
+[33m75a741f[m arquivos
+[33m501b527[m database url
+[33mab8c6fd[m remove versions
+[33m36a703b[m nest version
+[33m2500f27[m Node version'
+[33m91fb17a[m Heroku
+[33mf712666[m[33m ([m[1;31mheroku/main[m[33m)[m ts-node
+[33m63dc400[m Remove ssl
+[33m87bccc0[m SSl
+[33md17bd87[m Versão typescript
+[33m6cf9e24[m Add procfile
+[33mfa1d054[m[33m ([m[1;31mheroku/master[m[33m)[m Projeto adicionado
